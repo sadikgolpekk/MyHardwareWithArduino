@@ -17,8 +17,7 @@ Bu proje, Arduino kullanarak bir servo motorun kontrolünü sağlar. Projede, Ar
 
 ## Kullanım
 
-1. Arduino IDE kullanarak `servo_control.ino` kodunu Arduino'ya yükleyin.
-2. Servo motoru ve analog sensörü devreleyin (yukarıdaki devre şemasına bakın).
+1. Arduino IDE kullanarak `main.ino` kodunu Arduino'ya yükleyin.
 3. Arduino'yu USB bağlantısı ile bilgisayara bağlayın.
 4. Arduino'nun gücünü sağlayın ve servo motorun hareket ettiğini gözlemleyin.
 
