@@ -26,7 +26,7 @@ Bu repo, kendi yazdığım Arduino projelerini ve Robotistan YouTube kanalından
 ---
 
 
-![197178414-391a5285-2ea4-46ed-b6d9-58dfd9789fd1](https://github.com/user-attachments/assets/7da48395-efb1-4a48-bf2c-7b071b7caa51)
+![arduino-uno-r3-smd-ch340-chip-klon-usb-kablo-dahil](https://github.com/user-attachments/assets/0604e16e-6627-4aff-99c6-a748d0e4f55b)
 
 
 
