@@ -7,6 +7,8 @@ Bu proje, Arduino kullanarak bir servo motorun kontrolünü sağlar. Projede, Ar
 - Servo motorun hareket açısı, Arduino'nun analog girişinden okunan değere göre belirlenir.
 - Servo motor, 0 ile 180 derece arasında belirtilen konuma ayarlanabilir.
 
+![Image](https://github.com/user-attachments/assets/ff1e551b-21d5-41f0-af7c-82be9d39087a)
+
 ## Gereksinimler
 
 - Arduino UNO veya benzeri bir Arduino kartı.
