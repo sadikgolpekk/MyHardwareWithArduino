@@ -12,6 +12,9 @@ Bu proje, Arduino Uno kullanarak HC-SR04 ultrasonik mesafe sensörü ve 16x2 LCD
 - Jumper kabloları
 - Potansiyometre (LCD ekran kontrast ayarı için)
 
+
+![Image](https://github.com/user-attachments/assets/f27441de-36c4-4bb9-8892-468fd1c3554b)
+
 ## Devre Bağlantısı
 
 - **trigPin (Tetik Pini)**: Arduino'dan gelen sinyal ile ultrasonik dalga gönderir.
